@@ -1,3 +1,4 @@
 # JS-Fundamentals
-const myVar = "JavaScript is amazing";
-console.log(myVar);  
+let myVar = "JavaScript is amazing";
+console.log(myVar);
+
